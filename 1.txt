@@ -1,1 +1,3 @@
 2
+coś dodałem
+jeszcze jedna zmiana po ustawieniu upstream

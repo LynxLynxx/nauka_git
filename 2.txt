@@ -1,3 +1,4 @@
 Nadpisany
 Przed stagem
+zmiana w trakcie
 Sprawdzam flagę stage w komendzie diff
