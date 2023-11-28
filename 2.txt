@@ -2,3 +2,4 @@ Nadpisany
 Przed stagem
 zmiana w trakcie
 Sprawdzam flagę stage w komendzie diff
+dodaję coś bez nowego brancha
